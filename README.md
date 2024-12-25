@@ -1,5 +1,16 @@
 Live Application : https://music-api-1ntu.onrender.com 
+
+
 Postman Collection for testing and examples: https://winter-eclipse-979074.postman.co/workspace/8aeba8e6-d5e6-48ed-a7c9-a115459f5a50
+
+Testing :
+1. Login :
+   Admin Role:
+{
+ "email": "admin@example.com",
+ "password": "password"
+}
+
 
 API routes :
 
