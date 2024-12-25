@@ -17,7 +17,8 @@ Testing :
 
 
 ## Sample Users collection MongoDB document:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/09a41a2d-631d-4e8b-aaa2-d4cf91569d60)
+
 
 
 API routes :
