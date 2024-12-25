@@ -12,6 +12,12 @@ Testing :
 }
 
 
+## Sample Output Postman Collection:
+![image](https://github.com/user-attachments/assets/57c14cab-7fbb-44c3-94c2-1cc8bd6077ff)
+
+
+
+
 API routes :
 
 0. GET BASEURL/Logout: 200, 400
